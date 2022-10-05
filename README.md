@@ -1,7 +1,8 @@
+<img alt="python" src ="http://img.shields.io/badge/-python-3776AB?style=platsic&logo=python"/>
 <img alt="pandas" src ="http://img.shields.io/badge/-pandas-150458?style=platsic&logo=pandas"/>
 
 
-http://img.shields.io/badge/-pandas-150458?style=platsic&logo=pandas
+
 
 
 
