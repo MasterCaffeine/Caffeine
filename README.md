@@ -1,7 +1,7 @@
-<img alt="PANDAS" src ="https://img.shields.io/badge/pandas-#150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
+<img alt="pandas" src ="https://img.shields.io/badge/pandas-#150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
 
 
-
+http://img.shields.io/badge/-pandas-150458?style=platsic&logo=pandas
 
 
 
