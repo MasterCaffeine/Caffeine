@@ -10,4 +10,4 @@
 <img alt="Qgis" src ="https://img.shields.io/badge/Qgis-589632.svg?&style=plastic&logo=Qgis&logoColor=white"/>
 <img alt="folium" src ="https://img.shields.io/badge/folium-77B829.svg?&style=plastic&logo=folium&logoColor=white"/>
 
-<img alt="RegEx" src ="https://img.shields.io/badge/Reg-Ex-Red"/>
+<img alt="RegEx" src ="https://img.shields.io/badge/Reg-Ex-red"/>
